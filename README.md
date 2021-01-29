@@ -10,6 +10,7 @@ git clone https://github.com/Destroyed901/Ip-scaner
 
 cd Ip-scaner
 
-python Ip-scaner
+python Ip-scaner.py
+
 
 ВНИМАНИЕ! ЗА ВАШИ ДЕЙСТВИЯ МЫ ОТВЕТСТВЕННОСТЬ НЕ НЕСЁМ!

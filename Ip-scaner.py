@@ -127,7 +127,7 @@ banner = colored("""
  |___| .__/      |___/\___\__,_|_| |_|\___|_|   
      |_|                                        
 
-       telegram channel: @termux999
+       rick daun 
 """, "green")
 print(banner)
 main()

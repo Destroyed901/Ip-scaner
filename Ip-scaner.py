@@ -126,8 +126,8 @@ banner = colored("""
   | || |_) |_____\__ \ (_| (_| | | | |  __/ |   
  |___| .__/      |___/\___\__,_|_| |_|\___|_|   
      |_|                                        
-
-       rick daun 
+                              channel: https://t.me/eniac_tg
+       
 """, "green")
 print(banner)
 main()
